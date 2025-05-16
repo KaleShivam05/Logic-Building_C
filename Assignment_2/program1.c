@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-// Name :          problem1.c
+// Name :          program1.c
 // Discription :   Display numbers of * on screen
 // Input :         integer
 // Output :        String
