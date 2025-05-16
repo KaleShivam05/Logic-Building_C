@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-// Name :          problem2.c
+// Name :          program2.c
 // Discription :   Display 5 times "Jay Ganesh"
 // Input :         integer
 // Output :        integer , String
