@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-// Name :          problem4.c
+// Name :          program4.c
 // Discription :   Chack whether input is divisible 5 or not
 // Input :         integer
 // Output :        integer , String
