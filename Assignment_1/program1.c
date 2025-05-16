@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-// Name :          problem1.c
+// Name :          program1.c
 // Discription :   Display Division of two numbers
 // Input :         integer
 // Output :        integer , String
