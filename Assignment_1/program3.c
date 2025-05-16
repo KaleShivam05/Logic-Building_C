@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-// Name :          problem3.c
+// Name :          program3.c
 // Discription :   Display 5 to 1 numbers
 // Input :         integer
 // Output :        integer , String
