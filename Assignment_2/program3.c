@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-// Name :          problem1.c
+// Name :          program1.c
 // Discription :   Display "Hello" if input is less then 10
 // Input :         integer
 // Output :        String
