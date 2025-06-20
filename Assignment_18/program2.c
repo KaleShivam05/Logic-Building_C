@@ -17,6 +17,7 @@
 */
 
 #include<stdio.h>
+#include<stdlif.h>
 
 void Display(int Arr[], int iLength)
 {
