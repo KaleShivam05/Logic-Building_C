@@ -17,6 +17,7 @@
 */
 
 #include<stdio.h>
+#include<stdlib.h>
 
 int CheckNumber(int Arr[], int iLength)
 {
