@@ -20,7 +20,7 @@
 */
 
 #include<stdio.h>
-#include<stdlif.h>
+#include<stdlib.h>
 
 void Display(int Arr[], int iLength)
 {
