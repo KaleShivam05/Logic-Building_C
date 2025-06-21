@@ -18,7 +18,7 @@
 */
 
 #include<stdio.h>
-#include<stdlif.h>
+#include<stdlib.h>
 
 int Difference(int Arr[],int iNo)
 {
