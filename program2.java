@@ -18,7 +18,7 @@
 
 import java.util.*;
 
-class program52
+class program2
 {
     public static void main(String A[])
     {
