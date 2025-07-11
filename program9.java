@@ -37,7 +37,7 @@ class Number
     }
 }
 
-class program59
+class program9
 {
     public static void main(String A[])
     {
