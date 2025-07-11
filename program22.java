@@ -43,7 +43,7 @@ class Digits
     }
 }
 
-class program72
+class program22
 {
     public static void main(String A[])
     {
