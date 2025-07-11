@@ -18,7 +18,7 @@
 
 import java.util.*;
 
-class program55
+class program5
 {
     public static int Addition(int iNo1, int iNo2)
     {
