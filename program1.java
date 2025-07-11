@@ -7,7 +7,7 @@
 //
 //////////////////////////////////////////////////////////////////
 
-class program51
+class program1
 {
     public static void main(String A[])
     {
