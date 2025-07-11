@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////
 //
-//  File name :     program23.java
+//  File name :     program24.java
 //  Descreption :   Display number in revers order
 //  Author :        Shivam Rajendra Kale
 //  Date :          10/07/2025
@@ -42,7 +42,7 @@ class Pattern
     }
 }
 
-class program95
+class program24
 {
     public static void main(String A[])
     {
