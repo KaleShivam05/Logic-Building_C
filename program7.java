@@ -28,7 +28,7 @@ class Arithematic
     }
 }
 
-class program57
+class program7
 {
     public static void main(String A[])
     {
