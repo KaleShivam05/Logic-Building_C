@@ -18,7 +18,7 @@
 
 import java.util.Scanner;
 
-class program53
+class program3
 {
     public static void main(String A[])
     {
