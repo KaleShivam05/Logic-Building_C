@@ -79,7 +79,7 @@ class SinglyLL
     }
 }
 
-class program373
+class program190
 {
     public static void main(String A[])
     {
