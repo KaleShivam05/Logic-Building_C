@@ -100,7 +100,7 @@ class SinglyLL
     }
 }
 
-class program374
+class program191
 {
     public static void main(String A[])
     {
