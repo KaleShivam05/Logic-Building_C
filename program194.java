@@ -57,7 +57,7 @@ class SinglyCLL
     }
 }
 
-class program377
+class program194
 {
     public static void main(String A[])
     {
