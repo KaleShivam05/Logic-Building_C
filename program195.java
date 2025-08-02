@@ -59,7 +59,7 @@ class DoublyCLL
     }
 }
 
-class program378
+class program195
 {
     public static void main(String A[])
     {
