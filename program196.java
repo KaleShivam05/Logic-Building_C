@@ -58,7 +58,7 @@ class DoublyLL
     }
 }
 
-class program379
+class program196
 {
     public static void main(String A[])
     {
