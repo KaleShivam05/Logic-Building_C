@@ -10,7 +10,7 @@
 import java.util.*;
 import java.io.*;
 
-class program433
+class program250
 {
     public static void main(String A[])
     {
