@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program272.java
-//  Descreption :   Display size of String 
+//  Descreption :   trim the Header 
 //  Author :        Shivam Rajendra Kale
 //  Date :          13/08/2025
 //
