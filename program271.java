@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program271.java
-//  Descreption :   Display size of String 
+//  Descreption :   Creat a header 100 bytes
 //  Author :        Shivam Rajendra Kale
 //  Date :          13/08/2025
 //
