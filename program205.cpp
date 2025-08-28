@@ -10,7 +10,7 @@
 // Generic Stack
 
 // | 11 |->| 21 |->| 51 |->| 101 |-> 
-
+  
 
 #include<iostream>
 using namespace std;
