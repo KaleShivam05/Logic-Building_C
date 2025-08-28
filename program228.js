@@ -8,7 +8,7 @@
 //////////////////////////////////////////////////////////////////
 
 
-function Addition(No1, No2)
+function Addition(No1, No2)   
 {
     let Ans = 0
     Ans = No1 + No2
