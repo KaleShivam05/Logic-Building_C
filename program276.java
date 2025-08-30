@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program276.java
-//  Descreption :   Display size of String 
+//  Descreption :   Display number of tokens
 //  Author :        Shivam Rajendra Kale
 //  Date :          25/08/2025
 //
