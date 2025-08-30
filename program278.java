@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program278.java
-//  Descreption :   Display size of String 
+//  Descreption :   Display write data into packer file 
 //  Author :        Shivam Rajendra Kale
 //  Date :          25/08/2025
 //
