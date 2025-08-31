@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program280.java
-//  Descreption :   Display size of String 
+//  Descreption :   creat file and write all data into it
 //  Author :        Shivam Rajendra Kale
 //  Date :          25/08/2025
 //
