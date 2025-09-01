@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program283.java
-//  Descreption :   Display size of String 
+//  Descreption :   this file contain full file packer code 
 //  Author :        Shivam Rajendra Kale
 //  Date :          25/08/2025
 //
