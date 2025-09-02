@@ -9,7 +9,7 @@
 
 // Singly circular Linked List
 
-// | 11 |->| 21 |->| 51 |->| 101 |-> 
+// | 11 |->| 21 |->| 51 |->| 101 |->   
 
 #include<stdio.h>
 #include<stdlib.h>
