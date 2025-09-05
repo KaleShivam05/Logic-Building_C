@@ -16,7 +16,7 @@
     Stop
 */
 
-import java.util.*;
+import java.util.*;  
 
 class Number
 {
