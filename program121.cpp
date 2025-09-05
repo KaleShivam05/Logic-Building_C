@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 //
 //  File name :     program121.cpp
-//  Descreption :   Generic Find maximum elements from Array
+//  Descreption :   Generic program to Find maximum elements from Array
 //  Input :         Integer
 //  Output :        Integer
 //  Author :        Shivam Rajendra Kale
