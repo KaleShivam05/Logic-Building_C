@@ -18,7 +18,7 @@
 
 #include<stdio.h>
 
-int Reverse(int Size)
+int Reverse(int Size)  
 {
     int iDigit = 0;
     static int iSize = -1, iReverse = 0;
@@ -54,4 +54,5 @@ int main()
     printf("%d\n",iRet);
 
     return 0;
+
 }
