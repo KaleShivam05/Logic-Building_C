@@ -15,32 +15,35 @@
 void SwapRows(int **Arr, int iRow, int iCol)
 {
     int i = 0, j = 0;
-    static int k = 0;
-    int iMax = Arr[0][0];
-    int iSum1 = 0;
+    int temp = 0;
+
+    if((iRow % 2 ) != 0)
+    {
+        printf("Unable to swap rows\n");
+        return;
+    }
+
+    for(i = 0; i < (iRow-1); i++)
+    {
+        for(j = 0; j < iCol; j++)
+        {
+            temp = Arr[i][j];
+            Arr[i][j] = Arr[i + 1][j];
+            Arr[i + 1][j] = temp; 
+        }
+    }
+
+    printf("Updated matrix is :\n");
 
     for(i = 0; i < iRow; i++)
     {
         for(j = 0; j < iCol; j++)
         {
-            if(j == k)
-            {
-                iSum1 = iSum1 + Arr[i][j];
-            }
+            printf("%d\t", Arr[i][j]);
         }
+        printf("\n");
     }
 
-    k++;
-
-    if(k > iRow)
-    {
-        return;
-    }
-
-    printf("Addition is : %d\n", iSum1);
-
-    AddColumn(Arr, iRow, iCol);
-  
 }
 
 int main()
@@ -71,8 +74,6 @@ int main()
         }
     }
 
-    SwapRows(Arr, iRow, iCol);
-
     for(i = 0; i < iRow; i++)
     {
         for(j = 0; j < iCol; j++)
@@ -81,6 +82,8 @@ int main()
         }
         printf("\n");
     }
+    
+    SwapRows(Arr, iRow, iCol);
     
     return 0;
 }
