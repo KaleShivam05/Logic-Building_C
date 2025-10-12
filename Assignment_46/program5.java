@@ -18,6 +18,14 @@ class pattern
         int Arr[][] = new int[iRow][iCol];
         int i = 0, j = 0,k = 1;
 
+        for(i = iRow; i >= 1; i--)
+        {
+            for(j = 0; j < iCol; j++,k++)
+            {
+                System.out.print(k+"\t");   
+            }
+            System.out.println();
+        }
     }
 }
 
@@ -39,4 +47,5 @@ class program5
 
         sobj.close();
     }
+
 }
