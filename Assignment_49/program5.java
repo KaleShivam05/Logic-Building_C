@@ -19,7 +19,21 @@ class pattern
         int Arr[][] = new int [str.length()][str.length()];
         char Brr[] = str.toCharArray();
 
-        // Code
+        for(i = 0; i < str.length(); i++)
+        {
+            for(j = 0; j < str.length(); j++)
+            {
+                if(i >= j)
+                {
+                    System.out.print(Brr[j]+"\t");
+                }
+                else 
+                {
+                    System.out.print("*\t");
+                }        
+            }
+            System.out.println();
+        }
         
         for(i = str.length(); i >= 1; i--)
         {
@@ -54,4 +68,5 @@ class program5
 
         sobj.close();
     }
+
 }
