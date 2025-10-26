@@ -3,7 +3,7 @@
 // Name :          program4.java
 // Discription :   use to Display class of each student
 // Input :         Integer
-// Output :        Integer
+// Output :        Integer, String
 // Author :        Shivam Rajendra Kale
 // Date :          18/10/2025
 //
@@ -73,3 +73,4 @@ class program4
     }
 
 }
+
