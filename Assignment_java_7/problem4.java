@@ -2,8 +2,8 @@
 //
 // Name :          problem4.java
 // Discription :   Display multiplication of odd factorials
-// Input :         integer
-// Output :        integer
+// Input :         Integer
+// Output :        Integer
 // Author :        Shivam Rajendra Kale
 // Date :          18/05/2025
 //
@@ -13,8 +13,7 @@
     Start
         Accept input from user
             Check odd factorial than
-                Display multiplication of odd factorials
-           
+                Display multiplication of odd factorials    
     Stop                  
 */
 
@@ -40,4 +39,5 @@ class problem4
 
         sobj.close();
     }
+
 }
