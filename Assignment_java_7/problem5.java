@@ -1,13 +1,13 @@
-/////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
 //
 // Name :          problem5.java
-// Discription :   Check Difference
-// Input :         integer
-// Output :        integer
+// Discription :   Check Difference between even & odd numbers
+// Input :         Integer
+// Output :        Integer
 // Author :        Shivam Rajendra Kale
 // Date :          18/05/2025
 //
-/////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
 
 /*
     Start
@@ -16,7 +16,6 @@
                do munliplication of even numbers
                do multiplication of odd numbers
                     Display Difference  
-           
     Stop                  
 */
 
@@ -42,4 +41,5 @@ class problem5
 
         sobj.close();
     }
+
 }
