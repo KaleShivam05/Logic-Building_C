@@ -13,7 +13,7 @@
     Start
         Accept input from user
            Count of Digits between 3 & 7
-            Display Count
+            Display Count on consol
     Stop                  
 */
 
@@ -53,4 +53,5 @@ int main()
     printf("%d",iRet);
 
     return 0;
+
 }
