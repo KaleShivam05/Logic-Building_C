@@ -3,7 +3,7 @@
 // Name :          program2.java
 // Discription :   use to count vowels character
 // Input :         Integer
-// Output :        Integer
+// Output :        Integer, String
 // Author :        Shivam Rajendra Kale
 // Date :          19/10/2025
 //
@@ -25,7 +25,6 @@ class MyArray
                 Count++;
            }
         }
-
         return Count;
     }
 }
@@ -49,4 +48,5 @@ class program2
 
         sobj.close();
     }
+
 }
