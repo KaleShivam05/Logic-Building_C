@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////
 //
 // Name :          problem1.java
-// Discription :   Check number 
-// Input :         integer
+// Discription :   Check number is small , medium or large
+// Input :         Integer
 // Output :        String 
 // Author :        Shivam Rajendra Kale
 // Date :          14/05/2025
@@ -39,4 +39,5 @@ class problem1
 
         sobj.close();
     }
+
 }
