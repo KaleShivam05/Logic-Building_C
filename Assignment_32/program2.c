@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////
 //
 // Name :          program2.c
-// Discription :   OFF bit 
+// Discription :   OFF bit Bitwise
 // Input :         Integer
 // Output :        String, Integer
 // Author :        Shivam Rajendra Kale
@@ -54,4 +54,5 @@ int main()
     printf("Updeted number is :%d",iRet);
 
     return 0;
+
 }
