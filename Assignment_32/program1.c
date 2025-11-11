@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////
 //
 // Name :          program1.c
-// Discription :   Check bit is ON or OFF 
+// Discription :   Check bit is ON or OFF Bitwise
 // Input :         Integer
 // Output :        Integer , stirng
 // Author :        Shivam Rajendra Kale
@@ -68,4 +68,5 @@ int main()
     }
 
     return 0;
+
 }
